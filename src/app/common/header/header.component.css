@@ -1,0 +1,6 @@
+@media (min-width: 992px) {
+    .sign-last {
+        display: flex;
+        justify-content: space-between;
+    }
+}

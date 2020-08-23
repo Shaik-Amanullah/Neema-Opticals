@@ -1,0 +1,17 @@
+.footer {
+    font-size: 100%;
+}
+.f-copy-right {
+    font-size: 75%;
+}
+
+@media (max-width: 768px) {
+    .f-links {
+        display: flex;
+        flex-direction: column;        
+    }
+    .f-media {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
